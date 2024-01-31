@@ -1,6 +1,6 @@
 # README Groupe 3S1
 
-- Projet prévu fonctionner avec le JDK Zulu 1.8 pour puce ARM : https://www.azul.com/downloads/?package=jdk#zulu
+- JDK Zulu 1.8 pour puce ARM : https://www.azul.com/downloads/?package=jdk#zulu
 
 - Version SDK : 26 (Oreo)
 
